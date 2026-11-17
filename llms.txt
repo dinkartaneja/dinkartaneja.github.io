@@ -1,0 +1,17 @@
+# Dinkar Taneja
+
+Technical Consultant at IMT (InfoMagnetics Technologies Corporation), based in Winnipeg, Manitoba, Canada.
+
+## About
+Master data consulting, mainly for large health organizations. Work covers IBM InfoSphere MDM setup and configuration, system integrations, matching rules and threshold tuning, and identity solutions such as Master Patient Index. Development work runs in Java and Spring Boot, building custom solutions that fit client systems.
+
+## What the site holds
+Work experience at IMT since 2021, a toolbox of the tools and skills used in daily work, a small demo that shows how record matching works, two short games about matching records, and a contact form for messages.
+
+## Links
+Website: https://dinkartaneja.com
+LinkedIn: https://www.linkedin.com/in/dinkartaneja
+GitHub: https://github.com/dinkartaneja
+
+## Languages
+English, Hindi, Punjabi.
